@@ -1,16 +1,16 @@
 {
-  "posts":[
+  "course": [
     {
-      "id" : 0,
-      "title": "First post!",
-      "content" : "My first content!"
-    }
-  ],
-  "comments" : [
+      "courseCode": "BCS2143",
+      "courseName": "OBJECT ORIENTED PROGRAMMIN",
+      "courseCredit": "3",
+      "isLab": "1"
+    },
     {
-      "id": 0,
-      "content": "Wow such content!",
-      "username": "zero_cool"
+      "courseCode": "UHE3092",
+      "courseName": "ENGLISH MECHANICS",
+      "courseCredit": "1",
+      "isLab": "0"
     }
   ]
 }
