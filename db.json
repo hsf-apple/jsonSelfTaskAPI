@@ -1,15 +1,273 @@
 {
   "course": [
     {
+      "courseCode": "BCI1143",
+      "courseName": "PROBLEM SOLVING",
+      "courseCredit": 3,
+      "isLab": 1
+    },
+    {
+      "courseCode": "BCN1043",
+      "courseName": "COMPUTER ARCHITECTURE & ORGANIZATION",
+      "courseCredit": 3,
+      "isLab": 1
+    },
+    {
+      "courseCode": "BCS1033",
+      "courseName": "SOFTWARE ENGINEERING",
+      "courseCredit": 3,
+      "isLab": 1
+    },
+    {
+      "courseCode": "BCI1023",
+      "courseName": "PROGRAMMING TECHNIQUE",
+      "courseCredit": 3,
+      "isLab": 1
+    },
+    {
+      "courseCode": "BCN1053",
+      "courseName": "DATA COMMUNICATIONS & NETWORKING",
+      "courseCredit": 3,
+      "isLab": 1
+    },
+    {
+      "courseCode": "BCI2023",
+      "courseName": "DATABASE SYSTEM",
+      "courseCredit": 3,
+      "isLab": 1
+    },
+    {
+      "courseCode": "BCS1133",
+      "courseName": "SYSTEM ANALYSIS & DESIGN",
+      "courseCredit": 3,
+      "isLab": 1
+    },
+    {
+      "courseCode": "BCI1093",
+      "courseName": "DATA STRUCTURE & ALGORITHMS",
+      "courseCredit": 3,
+      "isLab": 1
+    },
+    {
       "courseCode": "BCS2143",
       "courseName": "OBJECT ORIENTED PROGRAMMIN",
       "courseCredit": 3,
       "isLab": 1
     },
     {
-      "courseCode": "UHE3092",
-      "courseName": "ENGLISH MECHANICS",
+      "courseCode": "BCS2173",
+      "courseName": "HUMAN COMPUTER INTERACTION",
+      "courseCredit": 3,
+      "isLab": 1
+    },
+    {
+      "courseCode": "BCS2233",
+      "courseName": "SOFTWARE REQUIREMENT WORKSHOP",
+      "courseCredit": 3,
+      "isLab": 1
+    },
+    {
+      "courseCode": "BCN2053",
+      "courseName": "OERATING SYSTEMS",
+      "courseCredit": 3,
+      "isLab": 1
+    },
+    {
+      "courseCode": "BCS2313",
+      "courseName": "ARTIFICIAL INTELLIGENCE",
+      "courseCredit": 3,
+      "isLab": 1
+    },
+    {
+      "courseCode": "BCS2343",
+      "courseName": "SOFTWARE DESIGN WORKSHOP",
+      "courseCredit": 3,
+      "isLab": 1
+    },
+    {
+      "courseCode": "BCS2243",
+      "courseName": "WEB ENGINEERING",
+      "courseCredit": 3,
+      "isLab": 1
+    },
+    {
+      "courseCode": "BCI2313",
+      "courseName": "ALGORITHM & COMPLEXITY",
+      "courseCredit": 3,
+      "isLab": 1
+    },
+    {
+      "courseCode": "BCS2213",
+      "courseName": "FORMAL METHOD",
+      "courseCredit": 3,
+      "isLab": 1
+    },
+    {
+      "courseCode": "BCN2023",
+      "courseName": "DATA & NETWORK SECURITY",
+      "courseCredit": 3,
+      "isLab": 1
+    },
+    {
+      "courseCode": "BC*3**3",
+      "courseName": "ELECTIVE 1",
+      "courseCredit": 3,
+      "isLab": 1
+    },
+    {
+      "courseCode": "BCS3233",
+      "courseName": "SOFTWARE TESTING",
+      "courseCredit": 3,
+      "isLab": 1
+    },
+    {
+      "courseCode": "BCC3012",
+      "courseName": "UNDERGRADUATE PROJECT 1",
+      "courseCredit": 2,
+      "isLab": 0
+    },
+    {
+      "courseCode": "BCS3133",
+      "courseName": "SOFTWARE ENGINEERING PRACTICES",
+      "courseCredit": 3,
+      "isLab": 1
+    },
+    {
+      "courseCode": "BCS3153",
+      "courseName": "SOFTWARE EVOLUTION & MAINTENANCE",
+      "courseCredit": 3,
+      "isLab": 1
+    },
+    {
+      "courseCode": "BC*3**3",
+      "courseName": "ELECTIVE 2",
+      "courseCredit": 3,
+      "isLab": 1
+    },
+    {
+      "courseCode": "BCC3024",
+      "courseName": "UNDERGRADUATE PROJECT 2",
+      "courseCredit": 4,
+      "isLab": 0
+    },
+    {
+      "courseCode": "BCS3263",
+      "courseName": "SOFTWARE QUALITY ASSURANCE",
+      "courseCredit": 3,
+      "isLab": 1
+    },
+    {
+      "courseCode": "BCS3143",
+      "courseName": "SOFTWARE PROJECT MANAGEMENT",
+      "courseCredit": 3,
+      "isLab": 1
+    },
+    {
+      "courseCode": "BC*3**3",
+      "courseName": "ELECTIVE 3",
+      "courseCredit": 3,
+      "isLab": 1
+    },
+    {
+      "courseCode": "BCC4012",
+      "courseName": "INDUSTRIAL TRAINING",
+      "courseCredit": 12,
+      "isLab": 0
+    },
+    {
+      "courseCode": "UHS1011",
+      "courseName": "SOFT SKILLS 1",
       "courseCredit": 1,
+      "isLab": 0
+    },
+    {
+      "courseCode": "UHC1012",
+      "courseName": "FALSAFAH DAN ISU SEMASA",
+      "courseCredit": 2,
+      "isLab": 0
+    },
+    {
+      "courseCode": "UHL2400",
+      "courseName": "FUNDAMENTAL OF ENGLISH LANGUAGE",
+      "courseCredit": 0,
+      "isLab": 0
+    },
+    {
+      "courseCode": "UHL2412",
+      "courseName": "ENGLISH FOR ACADEMIC COMMUNICATIONS",
+      "courseCredit": 2,
+      "isLab": 0
+    },
+    {
+      "courseCode": "UHC2022",
+      "courseName": "APPRECIATION OF ETHICS AND CIVILIZATION",
+      "courseCredit": 2,
+      "isLab": 0
+    },
+    {
+      "courseCode": "UHL2422",
+      "courseName": "ENGLISH FOR TECHNICAL COMMUNICATIONS",
+      "courseCredit": 2,
+      "isLab": 0
+    },
+    {
+      "courseCode": "UGE2002",
+      "courseName": "TECHNO PRENEURSHIP",
+      "courseCredit": 2,
+      "isLab": 0
+    },
+    {
+      "courseCode": "UHL2432",
+      "courseName": "ENGLISH FOR PROFESSIONAL COMMUNICATIONS",
+      "courseCredit": 2,
+      "isLab": 0
+    },
+    {
+      "courseCode": "UHF1**1",
+      "courseName": "FOREIGN LANGUAGE 1",
+      "courseCredit": 1,
+      "isLab": 0
+    },
+    {
+      "courseCode": "UHS2011",
+      "courseName": "SOFT SKILLS 2",
+      "courseCredit": 1,
+      "isLab": 0
+    },
+    {
+      "courseCode": "UHE***2",
+      "courseName": "ELECTIVE UNIVERSITY 1",
+      "courseCredit": 2,
+      "isLab": 0
+    },
+    {
+      "courseCode": "UHF2**1",
+      "courseName": "FOREIGN LANGUAGE 2",
+      "courseCredit": 1,
+      "isLab": 0
+    },
+    {
+      "courseCode": "UHE***2",
+      "courseName": "ELECTIVE UNIVERSITY 2",
+      "courseCredit": 2,
+      "isLab": 0
+    },
+    {
+      "courseCode": "BUM1233",
+      "courseName": "DISCRETE MATHEMATICS & APPLICATIONS",
+      "courseCredit": 3,
+      "isLab": 0
+    },
+    {
+      "courseCode": "BUM1433",
+      "courseName": "DISCRETE STRUCTURE & APPLICATION",
+      "courseCredit": 3,
+      "isLab": 0
+    },
+    {
+      "courseCode": "BUM2413",
+      "courseName": "APPLIED STATISTICS",
+      "courseCredit": 3,
       "isLab": 0
     }
   ]
