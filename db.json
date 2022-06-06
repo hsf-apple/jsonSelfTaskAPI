@@ -109,7 +109,7 @@
       "isLab": 1
     },
     {
-      "courseCode": "BC 3 3",
+      "courseCode": "BC*3**3 1",
       "courseName": "ELECTIVE 1",
       "courseCredit": 3,
       "isLab": 1
@@ -139,7 +139,7 @@
       "isLab": 1
     },
     {
-      "courseCode": "BC_3__3",
+      "courseCode": "BC*3**3 2",
       "courseName": "ELECTIVE 2",
       "courseCredit": 3,
       "isLab": 1
@@ -163,7 +163,7 @@
       "isLab": 1
     },
     {
-      "courseCode": "BC_3__3",
+      "courseCode": "BC*3**3 3",
       "courseName": "ELECTIVE 3",
       "courseCredit": 3,
       "isLab": 1
@@ -223,7 +223,7 @@
       "isLab": 0
     },
     {
-      "courseCode": "UHF1__1",
+      "courseCode": "UHF1**1 1",
       "courseName": "FOREIGN LANGUAGE 1",
       "courseCredit": 1,
       "isLab": 0
@@ -235,19 +235,19 @@
       "isLab": 0
     },
     {
-      "courseCode": "UHE___2",
+      "courseCode": "UHE***2 1",
       "courseName": "ELECTIVE UNIVERSITY 1",
       "courseCredit": 2,
       "isLab": 0
     },
     {
-      "courseCode": "UHF2__1",
+      "courseCode": "UHF2**1 2",
       "courseName": "FOREIGN LANGUAGE 2",
       "courseCredit": 1,
       "isLab": 0
     },
     {
-      "courseCode": "UHE___2",
+      "courseCode": "UHE***2 2",
       "courseName": "ELECTIVE UNIVERSITY 2",
       "courseCredit": 2,
       "isLab": 0
