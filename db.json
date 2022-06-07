@@ -305,7 +305,8 @@
       "courseCode": "BCN1053",
       "courseName": "DATA COMMUNICATIONS & NETWORKING",
       "courseCredit": 3,
-      "isLab": 1
+      "isLab": 1,
+      "is2ndClass": 0
     },
     {
       "courseCode": "BCI2023",
